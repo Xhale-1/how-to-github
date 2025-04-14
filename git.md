@@ -1,3 +1,4 @@
+
 # Загрузка проекта VS Code на репозиторий
 
 
@@ -54,7 +55,7 @@ Thumbs.db
 ```
 
 4. - git add .
-4. git commit -m "Первоначальный коммит"
+5. git commit -m "Первоначальный коммит"
 
 git --version
 git init
